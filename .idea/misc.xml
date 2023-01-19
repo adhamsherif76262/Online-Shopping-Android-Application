@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/E-commerce-Mobile-App-master/E-commerce-Mobile-App-master/app/src/main/res/layout-v21/frag_my_cart.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/E-commerce-Mobile-App-master/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/E-commerce-Mobile-App-master/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/E-commerce-Mobile-App-master/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/E-commerce-Mobile-App-master/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_men.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/E-commerce-Mobile-App-master/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_submit.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/E-commerce-Mobile-App-master/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_women.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/E-commerce-Mobile-App-master/E-commerce-Mobile-App-master/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/E-commerce-Mobile-App-master/E-commerce-Mobile-App-master/app/src/main/res/layout/content_scrolling.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/E-commerce-Mobile-App-master/E-commerce-Mobile-App-master/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/E-commerce-Mobile-App-master/E-commerce-Mobile-App-master/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/E-commerce-Mobile-App-master/E-commerce-Mobile-App-master/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_cart.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_men.xml" value="0.264" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_rv.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_search.xml" value="0.2" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_simple_pager.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_submit.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_voice_test.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/activity_women.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/content_scrolling.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/fragment_voice_search.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/layout/users_list.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/El Project/E-commerce-Mobile-App-master/app/src/main/res/menu/home.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Online_Shopping-main/app/src/main/res/layout/activity_barcode_scanner.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Online_Shopping-main/app/src/main/res/layout/activity_final.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Online_Shopping-main/app/src/main/res/layout/activity_men.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Online_Shopping-main/app/src/main/res/layout/activity_women.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Online_Shopping-main/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Online_Shopping-main/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Online_Shopping-main/app/src/main/res/layout/content_scrolling.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Online_Shopping-main/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Online_Shopping-main/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Online_Shopping-main/app/src/main/res/layout/fragment_voice_search.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Online_Shopping-main/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Online_Shopping-main/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Online_Shopping-main/app/src/main/res/menu/home.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
